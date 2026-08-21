@@ -22,22 +22,22 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-6A5BDB?style=flat-square">
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
-</p>
-
-<!-- Nav chips. Each one links to a section of this page or to the document it names. The anchors
+<!-- Quick navigation. Each chip links to a section of this page or to the document it names. The anchors
      are GitHub's own slugs for the headings below - rename a heading and its chip has to be
      renamed with it. -->
 <p align="center">
-  <a href="#getting-it"><img alt="Get OmniPlay" src="https://img.shields.io/badge/⬇%20Get%20OmniPlay-8A7BFF?style=for-the-badge"></a>
+  <a href="#get-omniplay"><img alt="Get OmniPlay" src="https://img.shields.io/badge/⬇%20Get%20OmniPlay-8A7BFF?style=for-the-badge"></a>
   <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
   <a href="#the-mod-tools-are-the-point"><img alt="Mod tools" src="https://img.shields.io/badge/Mod%20tools-2B2545?style=for-the-badge"></a>
   <a href="#a-game-page-not-a-spreadsheet"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
-  <a href="#it-does-not-touch-your-playnite-install"><img alt="Coexistence" src="https://img.shields.io/badge/Coexistence-2B2545?style=for-the-badge"></a>
   <a href="#privacy"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
+  <a href="#compatibility-with-playnite"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-2B2545?style=for-the-badge"></a>
   <a href="CREDITS.md"><img alt="Credits" src="https://img.shields.io/badge/Credits-2B2545?style=for-the-badge"></a>
   <a href="#the-omnivex-suite"><img alt="The suite" src="https://img.shields.io/badge/The%20suite-2B2545?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
 </p>
 
 ---
@@ -53,7 +53,7 @@ It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Neme
 **.NET 10, 64-bit**, with the jobs that mattered most built in rather than bolted on.
 
 > **OmniPlay is donationware.** Free, complete, no ads, no paid tier, nothing held back. There is
-> no public download yet — supporters get the build first. See [Getting it](#getting-it).
+> no public download yet — supporters get the build first. See [Get OmniPlay](#get-omniplay).
 
 ---
 
@@ -108,7 +108,7 @@ three tabs instead of one endless scroll: **Overview** for the four numbers you 
 
 ---
 
-## It does not touch your Playnite install
+## Compatibility with Playnite
 
 OmniPlay keeps its library in `%AppData%\OmniPlay` and its program files in `%LocalAppData%\OmniPlay`.
 Playnite's own `%AppData%\Playnite` is **never read and never written**. Both programs can be
@@ -141,7 +141,7 @@ See [PRIVACY.md](PRIVACY.md).
 
 ---
 
-## Getting it
+## Get OmniPlay
 
 **There is no public download yet.** OmniPlay is finished enough to use daily and is being used
 daily — but it has not been through anyone else's hands, and a first release that has only ever run
