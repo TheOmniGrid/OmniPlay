@@ -23,14 +23,18 @@
   <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
 </p>
 
+<!-- Nav chips. Each one links to a section of this page or to the document it names. The anchors
+     are GitHub's own slugs for the headings below - rename a heading and its chip has to be
+     renamed with it. -->
 <p align="center">
-  <a href="#getting-it"><b>Get OmniPlay</b></a> ·
-  <a href="#what-it-does">Features</a> ·
-  <a href="#the-mod-tools-are-the-point">Mod tools</a> ·
-  <a href="#a-game-page-not-a-spreadsheet">Screenshots</a> ·
-  <a href="#privacy">Privacy</a> ·
-  <a href="CREDITS.md">Credits</a> ·
-  <a href="#the-omnivex-suite">The suite</a>
+  <a href="#getting-it"><img alt="Get OmniPlay" src="https://img.shields.io/badge/⬇%20Get%20OmniPlay-8A7BFF?style=for-the-badge"></a>
+  <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
+  <a href="#the-mod-tools-are-the-point"><img alt="Mod tools" src="https://img.shields.io/badge/Mod%20tools-2B2545?style=for-the-badge"></a>
+  <a href="#a-game-page-not-a-spreadsheet"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
+  <a href="#it-does-not-touch-your-playnite-install"><img alt="Coexistence" src="https://img.shields.io/badge/Coexistence-2B2545?style=for-the-badge"></a>
+  <a href="#privacy"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
+  <a href="CREDITS.md"><img alt="Credits" src="https://img.shields.io/badge/Credits-2B2545?style=for-the-badge"></a>
+  <a href="#the-omnivex-suite"><img alt="The suite" src="https://img.shields.io/badge/The%20suite-2B2545?style=for-the-badge"></a>
 </p>
 
 ---
