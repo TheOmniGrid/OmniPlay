@@ -136,10 +136,17 @@ that is deliberate.
 
 ---
 
-## Part of OmniVex
+## The OmniVex suite
 
-> Tuned for framerate, mixed for headroom, sharp to the pixel.
-> Donationware tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.
+OmniPlay is one of a family of tools sharing a design language and a philosophy —
+modern, fast, no telemetry:
+
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniVex Gaming Wrappers**
+
+<sub>**OmniVex Gaming Wrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
+
+<sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
+tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
 
 More at [github.com/TheOmniGrid](https://github.com/TheOmniGrid).
 
