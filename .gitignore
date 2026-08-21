@@ -1,0 +1,16 @@
+# Nothing from the application belongs in this repository. These patterns are a backstop, not the
+# policy: the policy is that source and installers are never copied here in the first place.
+*.exe
+*.msi
+*.dll
+*.pdb
+*.cs
+*.csproj
+*.sln
+*.slnx
+*.zip
+*.7z
+bin/
+obj/
+Thumbs.db
+desktop.ini
