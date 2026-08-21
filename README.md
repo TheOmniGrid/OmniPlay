@@ -6,6 +6,7 @@
 
 <h1 align="center">OmniPlay</h1>
 <p align="center"><b>Every game you own, in one place — and the tools you run them with.</b></p>
+<p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
   <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
