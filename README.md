@@ -168,9 +168,9 @@ that is deliberate.
 OmniPlay is one of a family of tools sharing a design language and a philosophy —
 modern, fast, no telemetry:
 
-**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniVex Gaming Wrappers**
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniWrappers**
 
-<sub>**OmniVex Gaming Wrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
+<sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
 
 <sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
 tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
@@ -199,3 +199,12 @@ Issues are closed here — this is a personal project published for people who w
 taking patches. If something is broken, say so:
 
 **omnivex@theomnigrid.biz**
+
+---
+
+<div align="center">
+
+Copyright © 2026 OmniVex · MIT licensed — see [LICENSE.md](LICENSE.md)<br>
+<sub>A fork of Playnite © Josef Nemec and contributors, used under the MIT licence. Steam, Epic, GOG, Battle.net, EA, Ubisoft, Xbox, Amazon and Rockstar are trademarks of their respective owners; OmniPlay is not affiliated with them.</sub>
+
+</div>
