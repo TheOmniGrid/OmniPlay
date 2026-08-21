@@ -32,8 +32,6 @@
   <a href="#a-game-page-not-a-spreadsheet"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
   <a href="#privacy"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
   <a href="#compatibility-with-playnite"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-2B2545?style=for-the-badge"></a>
-  <a href="CREDITS.md"><img alt="Credits" src="https://img.shields.io/badge/Credits-2B2545?style=for-the-badge"></a>
-  <a href="#the-omnivex-suite"><img alt="The suite" src="https://img.shields.io/badge/The%20suite-2B2545?style=for-the-badge"></a>
 </p>
 
 <p align="center">
