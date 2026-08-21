@@ -214,19 +214,26 @@ Full attribution in [CREDITS.md](CREDITS.md).
 
 ## Contact
 
-For reproducible product problems or documentation corrections, use the provided
-[issue forms](../../issues/new/choose). Source-code and binary contributions are outside this
-documentation repository's scope; see [CONTRIBUTING.md](CONTRIBUTING.md).
+Use public channels only for information that is safe to share. Remove usernames, local paths,
+account identifiers, licence data, and other personal information from screenshots and logs.
 
-For delivery questions or anything containing private information, email:
+| Channel | Use |
+|---|---|
+| [GitHub Issues](../../issues/new/choose) | Reproducible bugs, compatibility reports, and documentation corrections |
+| [GitHub Discussions](../../discussions) | Questions, ideas, and community support |
+| [Security](SECURITY.md) | Private vulnerability reporting — never use a public issue |
+| [Email](mailto:omnivex@theomnigrid.biz) | Private support, delivery, or licensing questions |
 
-**omnivex@theomnigrid.biz**
+Support is best-effort. See [SUPPORT.md](SUPPORT.md) and [CONTRIBUTING.md](CONTRIBUTING.md)
+for repository scope and reporting guidance.
 
 ---
 
-<div align="center">
-
-Copyright © 2026 OmniVex · MIT licensed — see [LICENSE.md](LICENSE.md)<br>
-<sub>A fork of Playnite © Josef Nemec and contributors, used under the MIT licence. Steam, Epic, GOG, Battle.net, EA, Ubisoft, Xbox, Amazon and Rockstar are trademarks of their respective owners; OmniPlay is not affiliated with them.</sub>
-
-</div>
+<p align="center">
+  <strong>OmniPlay</strong><br>
+  <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
+  <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
+  <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
+  <sub>Copyright © 2026 OmniVex · MIT licensed · <a href="LICENSE.md">Licences</a></sub><br>
+  <sub>A fork of Playnite © Josef Nemec and contributors, used under the MIT licence. Steam, Epic, GOG, Battle.net, EA, Ubisoft, Xbox, Amazon and Rockstar are trademarks of their respective owners; OmniPlay is not affiliated with them.</sub>
+</p>
