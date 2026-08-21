@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/brand/banner-1600x500.png" alt="OmniPlay — game library manager with mod tools built in" width="100%">
+  <!-- Animated: tiles light up in a diagonal wave, the way a library fills in. The still
+       1600x500 version stays in assets/brand for anywhere a GIF is the wrong answer. -->
+  <img src="assets/brand/banner.gif" alt="OmniPlay — game library manager with mod tools built in" width="100%">
 </p>
 
 <h1 align="center">OmniPlay</h1>
