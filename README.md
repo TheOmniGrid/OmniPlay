@@ -1,18 +1,41 @@
 <p align="center">
-  <img src="assets/brand/banner.png" alt="OmniPlay — every game, every tool" width="100%">
+  <img src="assets/brand/banner-1600x500.png" alt="OmniPlay — game library manager with mod tools built in" width="100%">
 </p>
 
+<h1 align="center">OmniPlay</h1>
+<p align="center"><b>Every game you own, in one place — and the tools you run them with.</b></p>
+
 <p align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/button-kofi.png" alt="Support on Ko-fi" height="44"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/button-patreon.png" alt="Become a patron" height="44"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <b>Every game you own, in one place — and the tools you run them with.</b>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-8A7BFF?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20x64-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-45-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-6A5BDB?style=flat-square">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
+</p>
+
+<p align="center">
+  <a href="#getting-it"><b>Get OmniPlay</b></a> ·
+  <a href="#what-it-does">Features</a> ·
+  <a href="#the-mod-tools-are-the-point">Mod tools</a> ·
+  <a href="#a-game-page-not-a-spreadsheet">Screenshots</a> ·
+  <a href="#privacy">Privacy</a> ·
+  <a href="CREDITS.md">Credits</a> ·
+  <a href="#the-omnivex-suite">The suite</a>
 </p>
 
 ---
+
+## What it is
 
 OmniPlay finds the games you already have — across Steam, Epic, GOG, Battle.net, EA, Ubisoft, Xbox,
 Amazon, Rockstar, emulators, and plain folders on a drive — and puts them in one library. Then it
@@ -22,11 +45,8 @@ DXVK** per game, and tells you what each game already has.
 It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Nemec, rebuilt on
 **.NET 10, 64-bit**, with the jobs that mattered most built in rather than bolted on.
 
-**Donationware.** Free, complete, no ads, no paid tier, nothing held back.
-
-<p align="center">
-  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="100%">
-</p>
+> **OmniPlay is donationware.** Free, complete, no ads, no paid tier, nothing held back. There is
+> no public download yet — supporters get the build first. See [Getting it](#getting-it).
 
 ---
 
@@ -123,9 +143,9 @@ on one machine is not a release.
 Builds go to supporters first, the same way the rest of the OmniVex tools are handled:
 
 <p align="center">
-  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/button-kofi.png" alt="Support on Ko-fi" height="52"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/button-patreon.png" alt="Become a patron" height="52"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  &nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
 **Requirements:** Windows 10 or 11, 64-bit. The runtime ships with the app — no separate .NET
