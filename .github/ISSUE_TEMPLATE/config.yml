@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report
+    url: https://github.com/TheOmniGrid/OmniPlay/security/policy
+    about: Report a suspected OmniPlay vulnerability privately.
+  - name: OmniVex support
+    url: https://github.com/TheOmniGrid/OmniPlay/blob/main/SUPPORT.md
+    about: Read the support guidance before opening an issue.

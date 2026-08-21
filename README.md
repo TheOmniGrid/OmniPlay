@@ -22,22 +22,26 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-6A5BDB?style=flat-square">
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
-</p>
-
-<!-- Nav chips. Each one links to a section of this page or to the document it names. The anchors
+<!-- Quick navigation. Each chip links to a section of this page or to the document it names. The anchors
      are GitHub's own slugs for the headings below - rename a heading and its chip has to be
      renamed with it. -->
 <p align="center">
-  <a href="#getting-it"><img alt="Get OmniPlay" src="https://img.shields.io/badge/⬇%20Get%20OmniPlay-8A7BFF?style=for-the-badge"></a>
+  <a href="#get-omniplay"><img alt="Get OmniPlay" src="https://img.shields.io/badge/⬇%20Get%20OmniPlay-8A7BFF?style=for-the-badge"></a>
   <a href="#what-it-does"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
   <a href="#the-mod-tools-are-the-point"><img alt="Mod tools" src="https://img.shields.io/badge/Mod%20tools-2B2545?style=for-the-badge"></a>
   <a href="#a-game-page-not-a-spreadsheet"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2B2545?style=for-the-badge"></a>
-  <a href="#it-does-not-touch-your-playnite-install"><img alt="Coexistence" src="https://img.shields.io/badge/Coexistence-2B2545?style=for-the-badge"></a>
   <a href="#privacy"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
-  <a href="CREDITS.md"><img alt="Credits" src="https://img.shields.io/badge/Credits-2B2545?style=for-the-badge"></a>
-  <a href="#the-omnivex-suite"><img alt="The suite" src="https://img.shields.io/badge/The%20suite-2B2545?style=for-the-badge"></a>
+  <a href="#compatibility-with-playnite"><img alt="Compatibility" src="https://img.shields.io/badge/Compatibility-2B2545?style=for-the-badge"></a>
+  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-2B2545?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
+</p>
+
+> [!IMPORTANT]
+> **Documentation-only repository.** This public repository contains OmniPlay documentation, approved artwork, and screenshots—not the application source tree, installer, binary releases, signing material, or private build infrastructure. Official distribution remains outside GitHub.
+
+<p align="center">
+  <img src="assets/screenshots/library.jpg" alt="The OmniPlay library" width="920">
 </p>
 
 ---
@@ -53,7 +57,7 @@ It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Neme
 **.NET 10, 64-bit**, with the jobs that mattered most built in rather than bolted on.
 
 > **OmniPlay is donationware.** Free, complete, no ads, no paid tier, nothing held back. There is
-> no public download yet — supporters get the build first. See [Getting it](#getting-it).
+> no public download yet — supporters get the build first. See [Get OmniPlay](#get-omniplay).
 
 ---
 
@@ -108,19 +112,6 @@ three tabs instead of one endless scroll: **Overview** for the four numbers you 
 
 ---
 
-## It does not touch your Playnite install
-
-OmniPlay keeps its library in `%AppData%\OmniPlay` and its program files in `%LocalAppData%\OmniPlay`.
-Playnite's own `%AppData%\Playnite` is **never read and never written**. Both programs can be
-installed and run at the same time; on the development machine they are.
-
-Your library is copied and converted on first run. The original is left alone.
-
-Your existing **plugins and themes keep working**: the SDK assembly is still `Playnite.SDK` with
-unchanged namespaces, on purpose.
-
----
-
 ## Privacy
 
 Your library lives on your PC. **No telemetry, no usage reporting, no account, no crash upload.**
@@ -141,7 +132,20 @@ See [PRIVACY.md](PRIVACY.md).
 
 ---
 
-## Getting it
+## Compatibility with Playnite
+
+OmniPlay keeps its library in `%AppData%\OmniPlay` and its program files in `%LocalAppData%\OmniPlay`.
+Playnite's own `%AppData%\Playnite` is **never read and never written**. Both programs can be
+installed and run at the same time; on the development machine they are.
+
+Your library is copied and converted on first run. The original is left alone.
+
+Your existing **plugins and themes keep working**: the SDK assembly is still `Playnite.SDK` with
+unchanged namespaces, on purpose.
+
+---
+
+## Get OmniPlay
 
 **There is no public download yet.** OmniPlay is finished enough to use daily and is being used
 daily — but it has not been through anyone else's hands, and a first release that has only ever run
@@ -160,6 +164,21 @@ install.
 
 This repository is the project's front page. **The source code and the installer are not here**, and
 that is deliberate.
+
+---
+
+## Documentation
+
+| | |
+|---|---|
+| [Privacy](PRIVACY.md) | Local data, third-party libraries and telemetry boundaries |
+| [FAQ](FAQ.md) | Availability, compatibility and common product questions |
+| [Support](SUPPORT.md) | Useful reports, privacy redaction and contact routes |
+| [Security](SECURITY.md) | Private vulnerability reporting |
+| [Contributing](CONTRIBUTING.md) | Documentation and reproducible-report scope |
+| [Changelog](CHANGELOG.md) | Public project history |
+| [Licence](LICENSE.md) | Playnite lineage and application terms |
+| [Credits](CREDITS.md) | Upstream project and third-party attribution |
 
 ---
 
@@ -195,8 +214,11 @@ Full attribution in [CREDITS.md](CREDITS.md).
 
 ## Contact
 
-Issues are closed here — this is a personal project published for people who want to use it, not one
-taking patches. If something is broken, say so:
+For reproducible product problems or documentation corrections, use the provided
+[issue forms](../../issues/new/choose). Source-code and binary contributions are outside this
+documentation repository's scope; see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+For delivery questions or anything containing private information, email:
 
 **omnivex@theomnigrid.biz**
 
