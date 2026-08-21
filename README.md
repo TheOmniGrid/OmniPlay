@@ -147,9 +147,9 @@ on one machine is not a release.
 Builds go to supporters first, the same way the rest of the OmniVex tools are handled:
 
 <p align="center">
-  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
-  &nbsp;
-  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniPlay on Patreon"></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniPlay on Ko-fi"></a>
 </p>
 
 **Requirements:** Windows 10 or 11, 64-bit. The runtime ships with the app — no separate .NET
