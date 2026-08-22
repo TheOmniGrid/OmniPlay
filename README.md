@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Animated: tiles light up in a diagonal wave, the way a library fills in. The still
        1600x500 version stays in assets/brand for anywhere a GIF is the wrong answer. -->
-  <img src="assets/brand/banner.gif?v=20260822-symbol-reactor" alt="OmniPlay — Every game you own. One library, built-in tools." width="100%">
+  <img src="assets/brand/banner.gif?v=20260822-premium-motion-v3" alt="OmniPlay — Every game you own. One library, built-in tools." width="100%">
 </p>
 
 <h1 align="center">OmniPlay</h1>
