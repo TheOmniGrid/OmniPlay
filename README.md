@@ -234,6 +234,6 @@ for repository scope and reporting guidance.
   <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
   <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
   <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
-  <sub>Copyright © 2026 OmniVex · MIT licensed · <a href="LICENSE.md">Licences</a></sub><br>
+  <sub>Copyright © 2026 OmniVex · MIT licensed · <a href="LICENSE.md">Legal &amp; licensing</a></sub><br>
   <sub>A fork of Playnite © Josef Nemec and contributors, used under the MIT licence. Steam, Epic, GOG, Battle.net, EA, Ubisoft, Xbox, Amazon and Rockstar are trademarks of their respective owners; OmniPlay is not affiliated with them.</sub>
 </p>
