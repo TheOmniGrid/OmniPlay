@@ -64,6 +64,8 @@ It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Neme
 
 ## What it does
 
+![OmniPlay capability map covering the unified game library, built-in mod tools, discovery, and Playnite compatibility](assets/presentation/capabilities.png)
+
 |  | |
 |---|---|
 | **Mod and graphics tools per game** | ReShade, Special K and DXVK installed into a game's folder from inside OmniPlay, with a badge in the library for what each game already carries. |
