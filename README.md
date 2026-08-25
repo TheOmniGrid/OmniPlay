@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Animated: tiles light up in a diagonal wave, the way a library fills in. The still
        1600x500 version stays in assets/brand for anywhere a GIF is the wrong answer. -->
-  <img src="assets/brand/banner.gif?v=20260822-premium-motion-v3" alt="OmniPlay — Every game you own. One library, built-in tools." width="100%">
+  <img src="assets/brand/banner.gif?v=20260825-current-symbol-v1" alt="OmniPlay — Every game you own. One library, built-in tools." width="100%">
 </p>
 
 <h1 align="center">OmniPlay</h1>
@@ -17,10 +17,10 @@
 <!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0.0-8A7BFF?style=flat-square">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%C2%B7%20x64-0078D4?style=flat-square">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-45-8A7BFF?style=flat-square">
-  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
-  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%C2%B7%20x64-57C7FF?style=flat-square">
+  <img alt="Languages: 45" src="https://img.shields.io/badge/languages-45-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-00C66D?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-969FAB?style=flat-square&labelColor=30363D">
 </p>
 
 <!-- Quick navigation. Each chip links to a section of this page or to the document it names. The anchors
@@ -70,13 +70,14 @@ It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Neme
 |---|---|
 | **Mod and graphics tools per game** | ReShade, Special K and DXVK installed into a game's folder from inside OmniPlay, with a badge in the library for what each game already carries. |
 | **Store scanning without signing in** | Eight store clients read from their own local manifests. No login, no token, no session cookie. |
-| **Every launcher in one library** | The nine upstream library plugins are bundled too, for the extras only a signed-in account can give you. |
-| **A folder scanner** | Point it at `X:\Games\` and games installed outside any launcher become first-class library entries. |
+| **Every launcher in one library** | All 26 release extensions are bundled, including the nine store integrations and the add-ons OmniPlay is developed against. |
+| **A folder scanner** | Point it at `X:\Games\`; the scanner recognizes real game layouts, splits collection shelves and rejects common sidecar, tool and redistributable folders. |
 | **A discovery layer** | Store catalogue search, current deals, a wishlist with price alerts, and a release calendar. |
 | **Emulation that can name a ROM** | The 108-platform ROM database that upstream packages outside its source tree, and that source builds therefore never had. |
 | **Metadata from ten providers** | IGDB, SteamGridDB, PCGamingWiki, IGN, GOG, Xbox, PSN, Steam, Steam Tags, and local files. |
-| **Fullscreen mode** | Including the quick access menu and handheld layouts. |
-| **45 languages** | Inherited from a decade of upstream translation work. |
+| **Rich game pages** | Steam achievements, a silent trailer backdrop, screenshots, named videos, localized YouTube discovery and store descriptions without writing over your library data. |
+| **Fullscreen mode** | Quick access and handheld layouts plus the trailer backdrop, achievement strip and screenshot row fed by the desktop caches. |
+| **45 languages** | Inherited from upstream; fork-owned core surfaces are maintained in English, German, Spanish, French and Romanian, with English fallback elsewhere. |
 
 ---
 
@@ -105,9 +106,11 @@ on top of it — with the reason on the greyed-out row instead of a silent failu
   <img src="assets/screenshots/game-overview.jpg" alt="A game page in OmniPlay" width="100%">
 </p>
 
-Key art as the page's own backdrop, the trailer playing in the same place if the game has one, and
-three tabs instead of one endless scroll: **Overview** for the four numbers you actually came for,
-**Details** for the other twenty-one fields and every link, **Mods** for what is installed.
+Key art becomes the page backdrop; after the selection settles, an available local or Steam
+trailer can play silently behind it. The overview combines headline facts, achievements,
+screenshots, named videos, localized YouTube discovery and a store description fallback. Three
+tabs keep the hierarchy clear: **Overview** for the useful summary and media, **Details** for the
+full field/link set, and **Mods** for what is installed.
 
 <p align="center">
   <img src="assets/screenshots/game-details.jpg" alt="The Details tab" width="100%">
@@ -139,7 +142,7 @@ See [PRIVACY.md](PRIVACY.md).
 
 OmniPlay keeps its library in `%AppData%\OmniPlay` and its program files in `%LocalAppData%\OmniPlay`.
 Playnite's own `%AppData%\Playnite` is **never read and never written**. Both programs can be
-installed and run at the same time; on the development machine they are.
+installed and run side by side; neither installation depends on the other.
 
 Your library is copied and converted on first run. The original is left alone.
 
