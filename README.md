@@ -64,7 +64,7 @@ It is a fork of [Playnite](https://github.com/JosefNemec/Playnite) by Josef Neme
 
 ## What it does
 
-![OmniPlay capability map covering the unified game library, built-in mod tools, discovery, and Playnite compatibility](assets/presentation/capabilities.png?v=20260823-visible-numbers-v3)
+![OmniPlay capability map covering the unified game library, built-in mod tools, discovery, and Playnite compatibility](assets/presentation/capabilities.png?v=20260825-symbol-number-v4)
 
 |  | |
 |---|---|
